@@ -1,1 +1,3 @@
 My First task was to perform the Local Network scanning using NMap (Network Mapper) tool. So I use my Kali linux as it has Already Installed 'nmap'. I get to know my IP address by command "ip addr show" in my kali terminal. Then I use command "sudo nmap 10.0.2.15/24" . It provides me the results as shown in the txt file I attached.
+
+#NOTE: I have Placed REDACTED at many places in my firstscan.txt file for security and Privacy Concerns as it may be dangerous for Me , So I hope U just consider that factor!!
